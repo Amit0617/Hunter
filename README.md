@@ -5,11 +5,11 @@ The only legacy we can leave behind for our juniors.
 A website which makes them aware of various opportunities at the right time so that they never miss them in unawareness.
 
 ### Overview
--[] write python script for scraping all relevant positions(indian and remote only leaving other to keep the noise to minimum) from various careers page of all the companies listed in morethanFAANGM repository.
--[] same for all opensource contribution programs and try to fetch the dates and update if date is coming soon.
--[] same for all internships, apprenticeships, fellowships, scholarships or any other kind of ship... (scrape social media platforms for these terms)
--[] scrape for gh-bounties through search query in gh using issues tagged with bounty.
--[] (little distant future) provide user login facilities for customising alert of their choices.
+-[] write python script for scraping all relevant positions(indian and remote only leaving other to keep the noise to minimum) from various careers page of all the companies listed in morethanFAANGM repository.  
+-[] same for all opensource contribution programs and try to fetch the dates and update if date is coming soon.  
+-[] same for all internships, apprenticeships, fellowships, scholarships or any other kind of ship... (scrape social media platforms for these terms).  
+-[] scrape for gh-bounties through search query in gh using issues tagged with bounty.  
+-[] (little distant future) provide user login facilities for customising alert of their choices.  
 
 ### Infrastructure
 Everything is decided in such a way (atleast till now), so that nothing apart from github is needed to deploy such a project can be kept running with least or no maintenance requirements.
